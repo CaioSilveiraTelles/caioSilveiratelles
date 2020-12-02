@@ -1,8 +1,4 @@
 
-
-<!--
-**CaioSilveiraTelles/caioSilveiratelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hello guys, what's up? :)
 
 :octocat: Welcome to my Github profile. My name is Rayana Prata and I'm 20 years old.
