@@ -5,12 +5,11 @@
 
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  💻❤ </p> 
 
-- 💻 Intern at T-Systems
+- 💻 Intern at ZD ALIMENTOS SA. <a href='http://www.zdalimentos.com.br'>
 - 🚀 Bootcamp student everis FullStack Developer
-- 🎓 Systems Analysis and Development graduation student at IFSC
+- 🎓 Computer Science graduation student at Univem
 - 📚 Studying to work as a Front-end Developer or UX/UI Designer
 - 🙋🏻 Interested in helping women get into technology and development
-- 💬 You can call me to talk about technology studies, front-end development and early career
 
 🏍 Would you like to find me?
 
