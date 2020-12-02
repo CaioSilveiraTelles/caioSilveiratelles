@@ -5,7 +5,7 @@
 
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  💻❤ </p> 
 
-- 💻 Intern at ZD ALIMENTOS SA. <a href='http://www.zdalimentos.com.br'</a> 
+- 💻 Intern at ZD ALIMENTOS SA. <a href="https://www.linkedin.com/in/caio-silveira-telles-9750301a3" target="_blank"><img src="https://intranet.belchocolates.com.br/imagens/ZDA.ico" alt="LinkedIn"></a>
 - 🚀 Bootcamp student everis FullStack Developer
 - 🎓 Computer Science graduation student at Univem
 - 📚 Studying to work as a Front-end Developer or UX/UI Designer
