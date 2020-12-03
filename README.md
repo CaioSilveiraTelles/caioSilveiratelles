@@ -9,8 +9,6 @@
 - 🚀 Bootcamp student everis FullStack Developer
 - 🎓 Computer Science graduation student at Univem
 - 📚 Studying to work as a Front-end Developer or UX/UI Designer
-- 🙋🏻 Interested in helping women get into technology and development
-
 🏍 Would you like to find me?
 
 <a href="https://www.linkedin.com/in/caio-silveira-telles-9750301a3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/caiosilveira___/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
