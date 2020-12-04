@@ -9,8 +9,9 @@
 - 🚀 Bootcamp student everis FullStack Developer
 - 🎓 Computer Science graduation student at Univem
 - 📚 Studying to work as a Front-end Developer or UX/UI Designer
+<p align="left">
 -💼 Skilss: HTML5, CSS3, JavaScript, Bootstrap, Materialize , UI/UX Design, LARAVEL(PHP),BLAZOR(C#), ADVPL(TOTVS),(SQL,MYSQL)
-
+</p>
 <p align="left">
   💌Contact me : ⤵️
 </p>
