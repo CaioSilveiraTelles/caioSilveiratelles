@@ -33,3 +33,18 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
+
+![](https://komarev.com/ghpvc/?username=caioSilveiratelles)
+
+
+
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=caiosilveiratelles&show_icons=true&theme=onedark" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosilveiratelles&layout=compactt" /></td>
+  </tr>   
+</table>
+</center>
+
+
