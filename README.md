@@ -1,6 +1,8 @@
 
 ## Hello guys, what's up? :)
 
+![](https://komarev.com/ghpvc/?username=caioSilveiratelles)
+
 :octocat: Welcome to my Github profile. My name is Caio Silveira and I'm 19 years old.
 
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  💻❤ </p> 
@@ -34,15 +36,11 @@
 </p>  
 
 
-![](https://komarev.com/ghpvc/?username=caioSilveiratelles)
-
-
-
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=caiosilveiratelles&show_icons=true&theme=onedark" /></td>
-      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosilveiratelles&layout=compact" /></td>
+      <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api?username=caiosilveiratelles&show_icons=true&theme=onedark" /></td>
+      <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosilveiratelles&layout=compact" /></td>
   </tr>   
 </table>
 </center>
